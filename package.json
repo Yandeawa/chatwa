@@ -4,7 +4,8 @@
   "description": "",
   "main": "chatwa.js",
   "scripts": {
-    "start": "node chatwa.js"
+    "start": "node chatwa.js",
+    "npm install qrcode-terminal"
   },
   "author": "",
   "license": "ISC",
